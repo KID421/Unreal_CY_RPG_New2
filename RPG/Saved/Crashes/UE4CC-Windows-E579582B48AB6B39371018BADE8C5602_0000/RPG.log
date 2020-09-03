@@ -1,0 +1,1018 @@
+﻿Log file open, 09/03/20 13:10:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RPG
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.054117
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA Quadro P1000
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=KID_421 -epicuserid=a4125a3930ae4a1a996da348e85e7fc5 -epiclocale=zh-Hant
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Engine.ini]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Engine.ini]
+[2020.09.03-05.10.15:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Engine.ini]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Engine.ini]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.09.03-05.10.15:776][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Engine.ini]
+[2020.09.03-05.10.15:776][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Engine.ini]
+[2020.09.03-05.10.15:778][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:778][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.03-05.10.15:778][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.03-05.10.15:778][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:778][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.03-05.10.15:778][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:778][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.03-05.10.15:778][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.03-05.10.15:778][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.03-05.10.15:778][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.03-05.10.15:778][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.03-05.10.15:778][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.03-05.10.15:778][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.03-05.10.15:778][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.03-05.10.15:778][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.03-05.10.15:778][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.03-05.10.15:779][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.03-05.10.15:779][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.03-05.10.15:779][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.09.03-05.10.15:781][  0]LogHAL: Display: Platform has ~ 16 GB [17047191552 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.09.03-05.10.15:781][  0]LogInit: Going up to parent DeviceProfile []
+[2020.09.03-05.10.15:781][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:781][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.09.03-05.10.15:781][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.09.03-05.10.15:781][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:781][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.09.03-05.10.15:781][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:781][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.09.03-05.10.15:781][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.09.03-05.10.15:781][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.09.03-05.10.15:781][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.09.03-05.10.15:781][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.09.03-05.10.15:781][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.09.03-05.10.15:781][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.09.03-05.10.15:781][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.09.03-05.10.15:781][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.09.03-05.10.15:781][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.09.03-05.10.15:781][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Scalability.ini]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.09.03-05.10.15:782][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.09.03-05.10.15:783][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.09.03-05.10.15:783][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.09.03-05.10.15:783][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Unreal_CY_RPG_New2/RPG/Saved/Config/Windows/Engine.ini]
+[2020.09.03-05.10.15:783][  0]LogInit: Computer: M514-teacher
+[2020.09.03-05.10.15:783][  0]LogInit: User: IM
+[2020.09.03-05.10.15:783][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.09.03-05.10.15:783][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.09.03-05.10.15:783][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.09.03-05.10.15:783][  0]LogMemory: Platform Memory Stats for Windows
+[2020.09.03-05.10.15:783][  0]LogMemory: Process Physical Memory: 109.84 MB used, 109.84 MB peak
+[2020.09.03-05.10.15:783][  0]LogMemory: Process Virtual Memory: 101.52 MB used, 101.52 MB peak
+[2020.09.03-05.10.15:783][  0]LogMemory: Physical Memory: 5758.85 MB used,  10498.62 MB free, 16257.47 MB total
+[2020.09.03-05.10.15:783][  0]LogMemory: Virtual Memory: 5159.90 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.09.03-05.10.15:785][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.09.03-05.10.15:795][  0]LogInit: Using OS detected language (zh-TW).
+[2020.09.03-05.10.15:795][  0]LogInit: Using OS detected locale (zh-TW).
+[2020.09.03-05.10.15:796][  0]LogTextLocalizationManager: No localization for 'zh-TW' exists, so 'en' will be used for the language.
+[2020.09.03-05.10.15:920][  0]LogInit: Setting process to per monitor DPI aware
+[2020.09.03-05.10.15:961][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.09.03-05.10.15:961][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.09.03-05.10.16:050][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.03-05.10.16:050][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.09.03-05.10.16:050][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.09.03-05.10.16:050][  0]LogD3D11RHI: D3D11 adapters:
+[2020.09.03-05.10.16:093][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P1000' (Feature Level 11_0)
+[2020.09.03-05.10.16:093][  0]LogD3D11RHI:       4019/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.09.03-05.10.16:095][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.09.03-05.10.16:095][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.09.03-05.10.16:095][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.09.03-05.10.16:099][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.09.03-05.10.16:099][  0]LogD3D11RHI:     GPU DeviceId: 0x1cb1 (for the marketing name, search the web for "GPU Device Id")
+[2020.09.03-05.10.16:099][  0]LogWindows: EnumDisplayDevices:
+[2020.09.03-05.10.16:100][  0]LogWindows:    0. 'NVIDIA Quadro P1000' (P:1 D:1)
+[2020.09.03-05.10.16:100][  0]LogWindows:    1. 'NVIDIA Quadro P1000' (P:0 D:0)
+[2020.09.03-05.10.16:100][  0]LogWindows:    2. 'NVIDIA Quadro P1000' (P:0 D:0)
+[2020.09.03-05.10.16:101][  0]LogWindows:    3. 'NVIDIA Quadro P1000' (P:0 D:0)
+[2020.09.03-05.10.16:101][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.09.03-05.10.16:101][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P1000
+[2020.09.03-05.10.16:101][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2020.09.03-05.10.16:101][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2020.09.03-05.10.16:101][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2020.09.03-05.10.16:134][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.09.03-05.10.16:134][  0]LogD3D11RHI: Async texture creation enabled
+[2020.09.03-05.10.16:144][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.09.03-05.10.16:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.09.03-05.10.16:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.09.03-05.10.16:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.09.03-05.10.16:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.09.03-05.10.16:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.09.03-05.10.16:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.09.03-05.10.16:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.09.03-05.10.16:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.09.03-05.10.16:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.09.03-05.10.16:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.09.03-05.10.16:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.09.03-05.10.16:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.09.03-05.10.16:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.09.03-05.10.16:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.09.03-05.10.16:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.09.03-05.10.16:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.09.03-05.10.16:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.09.03-05.10.16:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.09.03-05.10.16:528][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.09.03-05.10.16:530][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.09.03-05.10.16:546][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (F:/Unreal_CY_RPG_New2/RPG/Intermediate/Shaders/WorkingDirectory/7988/).
+[2020.09.03-05.10.16:546][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/IM/AppData/Local/Temp/UnrealShaderWorkingDir/D2457CE244033700084F57AE9057F8F8/'.
+[2020.09.03-05.10.16:546][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.09.03-05.10.16:546][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.09.03-05.10.16:546][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.09.03-05.10.17:102][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.09.03-05.10.17:143][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/IM/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.09.03-05.10.17:143][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/IM/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.09.03-05.10.17:143][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Unreal_CY_RPG_New2/RPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.09.03-05.10.17:143][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.09.03-05.10.17:143][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Unreal_CY_RPG_New2/RPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.03-05.10.17:143][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.09.03-05.10.17:151][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.09.03-05.10.17:151][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.09.03-05.10.17:151][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.09.03-05.10.17:152][  0]LogDerivedDataCache: Using Local data cache path C:/Users/IM/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.09.03-05.10.17:152][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.09.03-05.10.17:152][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.09.03-05.10.17:172][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.09.03-05.10.17:173][  0]LogSlate: Using FreeType 2.10.0
+[2020.09.03-05.10.17:174][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.09.03-05.10.17:210][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2020.09.03-05.10.17:417][  0]LogInit: Selected Device Profile: [Windows]
+[2020.09.03-05.10.17:533][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.09.03-05.10.17:533][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.09.03-05.10.17:533][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.09.03-05.10.17:533][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.09.03-05.10.17:533][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.09.03-05.10.17:542][  0]LogNetVersion: RPG 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3823170462)
+[2020.09.03-05.10.18:270][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.024789 seconds
+[2020.09.03-05.10.18:276][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.09.03-05.10.18:276][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.09.03-05.10.18:276][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.09.03-05.10.18:554][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.09.03-05.10.18:557][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.09.03-05.10.18:591][  0]SourceControl: Source control is disabled
+[2020.09.03-05.10.18:591][  0]SourceControl: Source control is disabled
+[2020.09.03-05.10.18:592][  0]SourceControl: Source control is disabled
+[2020.09.03-05.10.18:592][  0]SourceControl: Source control is disabled
+[2020.09.03-05.10.18:593][  0]SourceControl: Source control is disabled
+[2020.09.03-05.10.18:647][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.09.03-05.10.18:654][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.03-05.10.18:654][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.09.03-05.10.18:716][  0]LogOcInput: OculusInput pre-init called
+[2020.09.03-05.10.18:721][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.09.03-05.10.18:721][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.09.03-05.10.18:770][  0]LogEngine: Initializing Engine...
+[2020.09.03-05.10.18:771][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.09.03-05.10.18:772][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.09.03-05.10.19:019][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.09.03-05.10.19:024][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.09.03-05.10.19:030][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.03-05.10.19:030][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.03-05.10.19:030][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.03-05.10.19:030][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.03-05.10.19:030][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.03-05.10.19:030][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.03-05.10.19:030][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.03-05.10.19:030][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.03-05.10.19:030][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.03-05.10.19:031][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.03-05.10.19:038][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.03-05.10.19:038][  0]LogAudioMixer: Display: Name: 喇叭 (Realtek(R) Audio)
+[2020.09.03-05.10.19:038][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.09.03-05.10.19:038][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.03-05.10.19:038][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.03-05.10.19:038][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.03-05.10.19:038][  0]LogAudioMixer: Display: Channel Order:
+[2020.09.03-05.10.19:038][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.03-05.10.19:038][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.09.03-05.10.19:128][  0]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek(R) Audio)
+[2020.09.03-05.10.19:132][  0]LogInit: FAudioDevice initialized.
+[2020.09.03-05.10.19:132][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.09.03-05.10.19:271][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/IM/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.09.03-05.10.19:276][  0]LogInit: Texture streaming: Enabled
+[2020.09.03-05.10.19:282][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.09.03-05.10.19:282][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.09.03-05.10.19:283][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.09.03-05.10.19:319][  0]LogInit: Transaction tracking system initialized
+[2020.09.03-05.10.19:326][  0]BlueprintLog: New page: Editor Load
+[2020.09.03-05.10.19:345][  0]LocalizationService: Localization service is disabled
+[2020.09.03-05.10.19:536][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal_CY_RPG_New2/RPG/Content/' took 0.01s
+[2020.09.03-05.10.19:536][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.09.03-05.10.19:536][  0]LogCook: Display: Mobile HDR setting 1
+[2020.09.03-05.10.19:991][  0]SourceControl: Source control is disabled
+[2020.09.03-05.10.19:991][  0]Cmd: MAP LOAD FILE="F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.09.03-05.10.19:991][  0]LightingResults: New page: Lighting Build
+[2020.09.03-05.10.19:991][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-05.10.19:991][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.10.19:991][  0]MapCheck: New page: Map Check
+[2020.09.03-05.10.19:991][  0]LightingResults: New page: Lighting Build
+[2020.09.03-05.10.20:016][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.09.03-05.10.20:532][  0]LogAIModule: Creating AISystem for world 遊戲關卡
+[2020.09.03-05.10.20:558][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.09.03-05.10.20:588][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.09.03-05.10.20:589][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.09.03-05.10.20:589][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2020.09.03-05.10.20:589][  0]LogFileHelpers: Loading map '遊戲關卡' took 0.598
+[2020.09.03-05.10.20:748][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-05.10.20:753][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-05.10.20:758][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-05.10.20:763][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-05.10.20:765][  0]LogCollectionManager: Loaded 0 collections in 0.000643 seconds
+[2020.09.03-05.10.20:774][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal_CY_RPG_New2/RPG/Saved/Collections/' took 0.00s
+[2020.09.03-05.10.20:774][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal_CY_RPG_New2/RPG/Content/Developers/IM/Collections/' took 0.00s
+[2020.09.03-05.10.20:774][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal_CY_RPG_New2/RPG/Content/Collections/' took 0.00s
+[2020.09.03-05.10.20:774][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 3015 classes and 717 folders.
+[2020.09.03-05.10.20:776][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.03-05.10.20:806][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.03-05.10.20:809][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.09.03-05.10.21:599][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.09.03-05.10.21:604][  0]LogSlate: Took 0.004707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.09.03-05.10.21:605][  0]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.09.03-05.10.21:608][  0]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.09.03-05.10.21:665][  0]LogRenderer: Reallocating scene render targets to support 1208x496 Format 10 NumSamples 1 (Frame:1).
+[2020.09.03-05.10.21:727][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.09.03-05.10.21:727][  0]LogLoad: (Engine Initialization) Total time: 6.73 seconds
+[2020.09.03-05.10.21:727][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.09.03-05.10.21:824][  0]LogAssetRegistry: Asset discovery search completed in 4.6144 seconds
+[2020.09.03-05.10.21:827][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.09.03-05.10.21:828][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.03-05.10.22:787][ 97]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.03-05.10.24:034][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.09.03-05.10.25:090][288]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/BP/BA_殭屍.BA_殭屍
+[2020.09.03-05.10.25:095][288]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.09.03-05.10.25:233][288]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.03-05.10.25:234][288]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.09.03-05.10.25:338][288]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.09.03-05.10.25:889][288]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.03-05.10.26:103][288]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.09.03-05.10.26:161][289]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.03-05.10.28:953][611]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.03-05.10.28:966][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.03-05.10.28:966][611]PIE: New page: PIE session: 遊戲關卡 (2020年9月3日 下午9:10:28)
+[2020.09.03-05.10.28:967][611]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.09.03-05.10.28:968][611]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.09.03-05.10.28:968][611]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-05.10.28:978][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010380s)
+[2020.09.03-05.10.28:979][611]LogAIModule: Creating AISystem for world 遊戲關卡
+[2020.09.03-05.10.28:979][611]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2020.09.03-05.10.28:979][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲關卡.遊戲關卡 to /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 (0.011408s)
+[2020.09.03-05.10.29:010][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.09.03-05.10.29:012][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.03-05.10.29:012][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.03-05.10.29:012][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.03-05.10.29:012][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.03-05.10.29:012][611]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.03-05.10.29:012][611]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.03-05.10.29:012][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.03-05.10.29:012][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.03-05.10.29:012][611]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.03-05.10.29:012][611]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.03-05.10.29:016][611]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.03-05.10.29:016][611]LogAudioMixer: Display: Name: 喇叭 (Realtek(R) Audio)
+[2020.09.03-05.10.29:016][611]LogAudioMixer: Display: Is Default: Yes
+[2020.09.03-05.10.29:016][611]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.03-05.10.29:016][611]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.03-05.10.29:016][611]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.03-05.10.29:016][611]LogAudioMixer: Display: Channel Order:
+[2020.09.03-05.10.29:016][611]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.03-05.10.29:016][611]LogAudioMixer: Display: 1: FrontRight
+[2020.09.03-05.10.29:104][611]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek(R) Audio)
+[2020.09.03-05.10.29:105][611]LogInit: FAudioDevice initialized.
+[2020.09.03-05.10.29:159][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-05.10.29:160][611]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.03-05.10.29:170][611]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 up for play (max tick rate 0) at 2020.09.03-13.10.29
+[2020.09.03-05.10.29:171][611]LogWorld: Bringing up level for play took: 0.010866
+[2020.09.03-05.10.29:172][611]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.09.03-05.10.29:174][611]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2020.09.03-05.10.29:178][611]PIE: Play in editor start time for /Game/地圖/UEDPIE_0_遊戲關卡 0.127
+[2020.09.03-05.10.29:429][612]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.09.03-05.10.37:190][ 57]LogBlueprintUserMessages: [BP_殭屍8_20] Hello
+[2020.09.03-05.10.37:221][ 59]LogBlueprintUserMessages: [BP_殭屍6_14] Hello
+[2020.09.03-05.10.38:016][108]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-05.10.38:035][108]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.03-05.10.38:056][108]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.03-05.10.38:056][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-05.10.38:056][108]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-05.10.38:069][108]LogSlate: Window 'RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.03-05.10.38:073][108]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-05.10.38:073][108]LogWorld: UWorld::CleanupWorld for 遊戲關卡, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-05.10.38:075][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.10.38:080][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.03-05.10.38:085][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.10.38:119][108]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-05.10.38:137][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.09.03-05.10.38:150][109]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.09.03-05.10.38:519][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_殭屍" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/BP/BA_殭屍.uasset" SILENT=true
+[2020.09.03-05.10.38:542][148]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/BA_殭屍2F770B0740279F07C7B0E18B066C1FD9.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/BP/BA_殭屍.uasset'
+[2020.09.03-05.10.38:553][148]AssetCheck: New page: Asset Save: BA_殭屍
+[2020.09.03-05.10.38:553][148]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_殭屍.BA_殭屍
+[2020.09.03-05.10.40:924][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-05.10.40:952][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.09.03-05.10.41:009][385]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡3E40B15540093777AB38F99DF2351BF6.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-05.10.41:036][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡_BuiltData" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡_BuiltData.uasset" SILENT=true
+[2020.09.03-05.10.41:311][385]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡_BuiltData52C116A84279771030FB229D4E966744.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡_BuiltData.uasset'
+[2020.09.03-05.10.41:326][385]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.03-05.10.41:326][385]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-05.10.41:326][385]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲關卡_BuiltData.遊戲關卡_BuiltData
+[2020.09.03-05.10.49:556][131]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/動畫殭屍/殭屍受傷_Montage.殭屍受傷_Montage
+[2020.09.03-05.10.49:597][131]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.03-05.10.49:619][131]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.03-05.10.50:084][131]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.09.03-05.11.04:746][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.09.03-05.11.04:767][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/動畫殭屍/殭屍受傷_Montage" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/動畫殭屍/殭屍受傷_Montage.uasset" SILENT=true
+[2020.09.03-05.11.04:784][859]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/殭屍受傷_Montage8F2DA0B441B12CD4DC16BAB028F55037.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/動畫殭屍/殭屍受傷_Montage.uasset'
+[2020.09.03-05.11.04:795][859]AssetCheck: New page: Asset Save: 殭屍受傷_Montage
+[2020.09.03-05.11.04:795][859]LogContentValidation: Display: Validating AnimMontage /Game/動畫殭屍/殭屍受傷_Montage.殭屍受傷_Montage
+[2020.09.03-05.11.05:005][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/動畫殭屍/殭屍受傷_Montage" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/動畫殭屍/殭屍受傷_Montage.uasset" SILENT=true
+[2020.09.03-05.11.05:012][880]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/殭屍受傷_Montage193D693149CE290212273F82AF621E59.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/動畫殭屍/殭屍受傷_Montage.uasset'
+[2020.09.03-05.11.05:022][880]AssetCheck: New page: Asset Save: 殭屍受傷_Montage
+[2020.09.03-05.11.05:022][880]LogContentValidation: Display: Validating AnimMontage /Game/動畫殭屍/殭屍受傷_Montage.殭屍受傷_Montage
+[2020.09.03-05.11.06:563][ 61]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.03-05.11.06:576][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.03-05.11.06:576][ 61]PIE: New page: PIE session: 遊戲關卡 (2020年9月3日 下午9:11:06)
+[2020.09.03-05.11.06:576][ 61]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-05.11.06:587][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010351s)
+[2020.09.03-05.11.06:587][ 61]LogAIModule: Creating AISystem for world 遊戲關卡
+[2020.09.03-05.11.06:588][ 61]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2020.09.03-05.11.06:588][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲關卡.遊戲關卡 to /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 (0.011155s)
+[2020.09.03-05.11.06:633][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.09.03-05.11.06:634][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.03-05.11.06:634][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.03-05.11.06:634][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.03-05.11.06:634][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.03-05.11.06:634][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.03-05.11.06:634][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.03-05.11.06:634][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.03-05.11.06:634][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.03-05.11.06:635][ 61]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.03-05.11.06:635][ 61]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.03-05.11.06:639][ 61]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.03-05.11.06:639][ 61]LogAudioMixer: Display: Name: 喇叭 (Realtek(R) Audio)
+[2020.09.03-05.11.06:639][ 61]LogAudioMixer: Display: Is Default: Yes
+[2020.09.03-05.11.06:639][ 61]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.03-05.11.06:639][ 61]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.03-05.11.06:639][ 61]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.03-05.11.06:639][ 61]LogAudioMixer: Display: Channel Order:
+[2020.09.03-05.11.06:639][ 61]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.03-05.11.06:639][ 61]LogAudioMixer: Display: 1: FrontRight
+[2020.09.03-05.11.06:728][ 61]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek(R) Audio)
+[2020.09.03-05.11.06:729][ 61]LogInit: FAudioDevice initialized.
+[2020.09.03-05.11.06:776][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-05.11.06:776][ 61]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.03-05.11.06:786][ 61]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 up for play (max tick rate 0) at 2020.09.03-13.11.06
+[2020.09.03-05.11.06:787][ 61]LogWorld: Bringing up level for play took: 0.010375
+[2020.09.03-05.11.06:787][ 61]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.09.03-05.11.06:792][ 61]PIE: Play in editor start time for /Game/地圖/UEDPIE_0_遊戲關卡 -0.26
+[2020.09.03-05.11.11:535][390]LogBlueprintUserMessages: [BP_殭屍_20] Hello
+[2020.09.03-05.11.13:867][570]LogBlueprintUserMessages: [BP_殭屍_20] Hello
+[2020.09.03-05.11.14:095][587]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-05.11.14:116][587]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.03-05.11.14:135][587]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.03-05.11.14:136][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-05.11.14:136][587]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-05.11.14:149][587]LogSlate: Window 'RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.03-05.11.14:152][587]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-05.11.14:152][587]LogWorld: UWorld::CleanupWorld for 遊戲關卡, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-05.11.14:154][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.11.14:162][587]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.03-05.11.14:167][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.11.14:196][587]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-05.11.14:203][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.09.03-05.11.14:220][588]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.09.03-05.11.14:774][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-05.11.14:803][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.09.03-05.11.14:860][652]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡088FFE7B4D0D9521968919B416D83790.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-05.11.14:886][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡_BuiltData" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡_BuiltData.uasset" SILENT=true
+[2020.09.03-05.11.15:062][652]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡_BuiltData6381045446FB0D5B3D69DB99CAAE86D4.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡_BuiltData.uasset'
+[2020.09.03-05.11.15:075][652]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.03-05.11.15:075][652]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-05.11.15:075][652]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲關卡_BuiltData.遊戲關卡_BuiltData
+[2020.09.03-05.11.16:973][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-05.11.17:004][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.09.03-05.11.17:062][841]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡64D72CFC41BC83CB3DE7378D530CF52F.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-05.11.17:089][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡_BuiltData" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡_BuiltData.uasset" SILENT=true
+[2020.09.03-05.11.17:262][841]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡_BuiltData7CAA4B234471167AD55BF9B3C0FA18E3.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡_BuiltData.uasset'
+[2020.09.03-05.11.17:276][841]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.03-05.11.17:276][841]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-05.11.17:276][841]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲關卡_BuiltData.遊戲關卡_BuiltData
+[2020.09.03-05.11.59:383][787]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.03-05.12.15:779][658]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/角色殭屍/殭屍_Anim_mixamo_com.殭屍_Anim_mixamo_com
+[2020.09.03-05.12.15:795][658]LogAnimationCompression: Recompressing (AnimSequence /Game/角色殭屍/殭屍_Anim_mixamo_com.殭屍_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.03-05.12.15:811][658]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/角色殭屍/殭屍_Anim_Take_001.殭屍_Anim_Take_001
+[2020.09.03-05.12.15:811][658]LogAnimationCompression: Recompressing (AnimSequence /Game/角色殭屍/殭屍_Anim_Take_001.殭屍_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.09.03-05.12.16:799][771]LogSlate: Window 'Animation Notifies' being destroyed
+[2020.09.03-05.12.16:802][771]LogSlate: Window 'Animation Notifies' being destroyed
+[2020.09.03-05.12.18:301][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/動畫殭屍/殭屍受傷_Montage" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/動畫殭屍/殭屍受傷_Montage.uasset" SILENT=true
+[2020.09.03-05.12.18:315][937]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/殭屍受傷_MontageFDD1A5EC4C33AC7C7BC6E7B8049AA712.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/動畫殭屍/殭屍受傷_Montage.uasset'
+[2020.09.03-05.12.18:326][937]AssetCheck: New page: Asset Save: 殭屍受傷_Montage
+[2020.09.03-05.12.18:326][937]LogContentValidation: Display: Validating AnimMontage /Game/動畫殭屍/殭屍受傷_Montage.殭屍受傷_Montage
+[2020.09.03-05.12.19:097][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.09.03-05.12.19:124][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/角色殭屍/殭屍_Skeleton" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/角色殭屍/殭屍_Skeleton.uasset" SILENT=true
+[2020.09.03-05.12.19:135][ 26]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/殭屍_SkeletonE6D82ED841C6BC35565D9E802B3ADB3C.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/角色殭屍/殭屍_Skeleton.uasset'
+[2020.09.03-05.12.19:148][ 26]AssetCheck: New page: Asset Save: 殭屍_Skeleton
+[2020.09.03-05.12.19:148][ 26]LogContentValidation: Display: Validating Skeleton /Game/角色殭屍/殭屍_Skeleton.殭屍_Skeleton
+[2020.09.03-05.12.50:516][514]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-05.12.50:516][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.12.50:609][514]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-05.12.50:609][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.12.52:824][771]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-05.12.52:824][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.12.52:828][771]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-05.12.52:828][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.12.52:917][771]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-05.12.52:917][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.13.11:695][858]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-05.14.09:166][520]BlueprintLog: New page: Compile BP_吸血鬼
+[2020.09.03-05.14.09:415][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.09.03-05.14.09:803][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.03-05.14.09:875][556]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼397F683C4A5B6D833282C3B58EC5C02A.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.03-05.14.09:887][556]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.03-05.14.09:887][556]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-05.14.28:196][513]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/動畫殭屍/殭屍受傷_Montage.殭屍受傷_Montage
+[2020.09.03-05.14.28:200][513]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.03-05.14.28:223][513]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.03-05.14.28:437][513]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.09.03-05.15.03:750][723]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.03-05.15.17:206][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/動畫殭屍/殭屍受傷_Montage" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/動畫殭屍/殭屍受傷_Montage.uasset" SILENT=true
+[2020.09.03-05.15.17:220][305]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/殭屍受傷_MontageC0991119452BBBC35466E29AC91289A2.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/動畫殭屍/殭屍受傷_Montage.uasset'
+[2020.09.03-05.15.17:230][305]AssetCheck: New page: Asset Save: 殭屍受傷_Montage
+[2020.09.03-05.15.17:230][305]LogContentValidation: Display: Validating AnimMontage /Game/動畫殭屍/殭屍受傷_Montage.殭屍受傷_Montage
+[2020.09.03-05.15.42:765][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_吸血鬼" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset" SILENT=true
+[2020.09.03-05.15.42:843][323]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/BP_吸血鬼97173F43436FEC07CFFDA8940A81CB3B.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/BP/BP_吸血鬼.uasset'
+[2020.09.03-05.15.42:855][323]AssetCheck: New page: Asset Save: BP_吸血鬼
+[2020.09.03-05.15.42:855][323]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_吸血鬼.BP_吸血鬼
+[2020.09.03-05.16.25:184][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.09.03-05.16.25:199][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/角色殭屍/殭屍_Skeleton" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/角色殭屍/殭屍_Skeleton.uasset" SILENT=true
+[2020.09.03-05.16.25:207][774]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/殭屍_Skeleton69E15C0A4E3B5754789E7C9AF36F316B.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/角色殭屍/殭屍_Skeleton.uasset'
+[2020.09.03-05.16.25:217][774]AssetCheck: New page: Asset Save: 殭屍_Skeleton
+[2020.09.03-05.16.25:217][774]LogContentValidation: Display: Validating Skeleton /Game/角色殭屍/殭屍_Skeleton.殭屍_Skeleton
+[2020.09.03-05.16.26:148][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/動畫殭屍/殭屍受傷_Montage" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/動畫殭屍/殭屍受傷_Montage.uasset" SILENT=true
+[2020.09.03-05.16.26:159][872]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/殭屍受傷_Montage9926216C4F3DA76D82C0CCBBD8E3DD5A.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/動畫殭屍/殭屍受傷_Montage.uasset'
+[2020.09.03-05.16.26:169][872]AssetCheck: New page: Asset Save: 殭屍受傷_Montage
+[2020.09.03-05.16.26:169][872]LogContentValidation: Display: Validating AnimMontage /Game/動畫殭屍/殭屍受傷_Montage.殭屍受傷_Montage
+[2020.09.03-05.16.26:847][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.09.03-05.16.31:199][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-05.16.31:228][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.09.03-05.16.31:290][400]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡213C73CD43FE7A7D0EA10E965CEB1A81.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-05.16.31:316][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡_BuiltData" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡_BuiltData.uasset" SILENT=true
+[2020.09.03-05.16.31:501][400]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡_BuiltDataDB6AE82D475013171B8D40AD5F16E140.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡_BuiltData.uasset'
+[2020.09.03-05.16.31:512][400]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.03-05.16.31:513][400]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-05.16.31:513][400]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲關卡_BuiltData.遊戲關卡_BuiltData
+[2020.09.03-05.16.33:782][581]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_殭屍.BP_殭屍
+[2020.09.03-05.16.35:439][730]LogSlate: Window 'BP_殭屍' being destroyed
+[2020.09.03-05.16.40:171][254]BlueprintLog: New page: Compile BP_殭屍
+[2020.09.03-05.16.40:376][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.09.03-05.16.40:641][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_殭屍" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset" SILENT=true
+[2020.09.03-05.16.40:679][272]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/BP_殭屍693204494715E43DB719EDA5566A1233.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset'
+[2020.09.03-05.16.40:690][272]AssetCheck: New page: Asset Save: BP_殭屍
+[2020.09.03-05.16.40:690][272]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_殭屍.BP_殭屍
+[2020.09.03-05.16.51:838][564]BlueprintLog: New page: Compile BP_殭屍
+[2020.09.03-05.16.52:046][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.09.03-05.16.52:291][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_殭屍" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset" SILENT=true
+[2020.09.03-05.16.52:326][582]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/BP_殭屍9F613E794E865A00F27172B8B34991A6.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset'
+[2020.09.03-05.16.52:338][582]AssetCheck: New page: Asset Save: BP_殭屍
+[2020.09.03-05.16.52:338][582]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_殭屍.BP_殭屍
+[2020.09.03-05.16.53:690][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.09.03-05.16.53:715][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-05.16.53:746][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.09.03-05.16.53:803][724]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡583D0B204D8511E9234E5B81D76EA5E2.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-05.16.53:830][724]LogFileHelpers: Saving map '遊戲關卡' took 0.115
+[2020.09.03-05.16.53:842][724]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.03-05.16.53:842][724]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-05.16.54:099][747]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/BP/BA_殭屍.BA_殭屍
+[2020.09.03-05.16.54:104][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.09.03-05.16.54:290][747]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.09.03-05.17.15:664][162]BlueprintLog: New page: Compile BA_殭屍
+[2020.09.03-05.17.15:850][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.09.03-05.17.16:158][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_殭屍" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/BP/BA_殭屍.uasset" SILENT=true
+[2020.09.03-05.17.16:186][191]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/BA_殭屍5B60343040BB0AE9C270BAA3BF02E889.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/BP/BA_殭屍.uasset'
+[2020.09.03-05.17.16:197][191]AssetCheck: New page: Asset Save: BA_殭屍
+[2020.09.03-05.17.16:197][191]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_殭屍.BA_殭屍
+[2020.09.03-05.17.16:738][253]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.03-05.17.16:754][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.03-05.17.16:754][253]PIE: New page: PIE session: 遊戲關卡 (2020年9月3日 下午9:17:16)
+[2020.09.03-05.17.16:754][253]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-05.17.16:764][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010036s)
+[2020.09.03-05.17.16:765][253]LogAIModule: Creating AISystem for world 遊戲關卡
+[2020.09.03-05.17.16:765][253]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2020.09.03-05.17.16:765][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲關卡.遊戲關卡 to /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 (0.010834s)
+[2020.09.03-05.17.16:797][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.09.03-05.17.16:798][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.03-05.17.16:798][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.03-05.17.16:798][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.03-05.17.16:798][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.03-05.17.16:798][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.03-05.17.16:798][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.03-05.17.16:798][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.03-05.17.16:798][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.03-05.17.16:798][253]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.03-05.17.16:798][253]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.03-05.17.16:802][253]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.03-05.17.16:802][253]LogAudioMixer: Display: Name: 喇叭 (Realtek(R) Audio)
+[2020.09.03-05.17.16:802][253]LogAudioMixer: Display: Is Default: Yes
+[2020.09.03-05.17.16:802][253]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.03-05.17.16:802][253]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.03-05.17.16:802][253]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.03-05.17.16:802][253]LogAudioMixer: Display: Channel Order:
+[2020.09.03-05.17.16:802][253]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.03-05.17.16:802][253]LogAudioMixer: Display: 1: FrontRight
+[2020.09.03-05.17.16:892][253]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek(R) Audio)
+[2020.09.03-05.17.16:893][253]LogInit: FAudioDevice initialized.
+[2020.09.03-05.17.16:937][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-05.17.16:937][253]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.03-05.17.16:947][253]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 up for play (max tick rate 0) at 2020.09.03-13.17.16
+[2020.09.03-05.17.16:948][253]LogWorld: Bringing up level for play took: 0.010158
+[2020.09.03-05.17.16:948][253]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.09.03-05.17.16:953][253]PIE: Play in editor start time for /Game/地圖/UEDPIE_0_遊戲關卡 -0.1
+[2020.09.03-05.17.17:852][304]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-05.17.17:876][304]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.03-05.17.17:895][304]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.03-05.17.17:895][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-05.17.17:895][304]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-05.17.17:909][304]LogSlate: Window 'RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.03-05.17.17:913][304]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-05.17.17:914][304]LogWorld: UWorld::CleanupWorld for 遊戲關卡, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-05.17.17:915][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.17.17:926][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.03-05.17.17:930][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.17.17:957][304]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-05.17.17:963][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.09.03-05.17.17:976][305]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.09.03-05.17.18:366][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_殭屍" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/BP/BA_殭屍.uasset" SILENT=true
+[2020.09.03-05.17.18:383][339]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/BA_殭屍6BDFFA7F454B8406FD025C9229C75B1D.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/BP/BA_殭屍.uasset'
+[2020.09.03-05.17.18:392][339]AssetCheck: New page: Asset Save: BA_殭屍
+[2020.09.03-05.17.18:392][339]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_殭屍.BA_殭屍
+[2020.09.03-05.17.29:662][622]BlueprintLog: New page: Compile BP_殭屍
+[2020.09.03-05.17.29:875][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.09.03-05.17.36:147][351]BlueprintLog: New page: Compile BP_殭屍
+[2020.09.03-05.17.36:358][351]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.09.03-05.17.41:224][907]BlueprintLog: New page: Compile BP_殭屍
+[2020.09.03-05.17.41:436][907]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.09.03-05.17.41:676][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_殭屍" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset" SILENT=true
+[2020.09.03-05.17.41:712][922]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/BP_殭屍4B6A0D7B48DBC9ECDC12BF8B6783B45D.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/BP/BP_殭屍.uasset'
+[2020.09.03-05.17.41:724][922]AssetCheck: New page: Asset Save: BP_殭屍
+[2020.09.03-05.17.41:724][922]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_殭屍.BP_殭屍
+[2020.09.03-05.17.42:264][976]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.09.03-05.17.42:279][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.09.03-05.17.42:279][976]PIE: New page: PIE session: 遊戲關卡 (2020年9月3日 下午9:17:42)
+[2020.09.03-05.17.42:279][976]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-05.17.42:290][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010106s)
+[2020.09.03-05.17.42:290][976]LogAIModule: Creating AISystem for world 遊戲關卡
+[2020.09.03-05.17.42:290][976]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2020.09.03-05.17.42:290][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲關卡.遊戲關卡 to /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 (0.010898s)
+[2020.09.03-05.17.42:322][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.09.03-05.17.42:323][976]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.09.03-05.17.42:323][976]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.09.03-05.17.42:323][976]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.09.03-05.17.42:323][976]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.09.03-05.17.42:323][976]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.09.03-05.17.42:323][976]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.09.03-05.17.42:323][976]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.09.03-05.17.42:323][976]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.09.03-05.17.42:323][976]LogAudio: Display: Using built-in audio occlusion.
+[2020.09.03-05.17.42:323][976]LogAudioMixer: Display: Initializing audio mixer.
+[2020.09.03-05.17.42:327][976]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.09.03-05.17.42:327][976]LogAudioMixer: Display: Name: 喇叭 (Realtek(R) Audio)
+[2020.09.03-05.17.42:327][976]LogAudioMixer: Display: Is Default: Yes
+[2020.09.03-05.17.42:327][976]LogAudioMixer: Display: Sample Rate: 48000
+[2020.09.03-05.17.42:327][976]LogAudioMixer: Display: Channel Count Used: 2
+[2020.09.03-05.17.42:327][976]LogAudioMixer: Display: Device Channel Count: 2
+[2020.09.03-05.17.42:327][976]LogAudioMixer: Display: Channel Order:
+[2020.09.03-05.17.42:327][976]LogAudioMixer: Display: 0: FrontLeft
+[2020.09.03-05.17.42:327][976]LogAudioMixer: Display: 1: FrontRight
+[2020.09.03-05.17.42:417][976]LogAudioMixer: Display: Using Audio Device 喇叭 (Realtek(R) Audio)
+[2020.09.03-05.17.42:418][976]LogInit: FAudioDevice initialized.
+[2020.09.03-05.17.42:471][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-05.17.42:471][976]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.09.03-05.17.42:481][976]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲關卡.遊戲關卡 up for play (max tick rate 0) at 2020.09.03-13.17.42
+[2020.09.03-05.17.42:482][976]LogWorld: Bringing up level for play took: 0.010117
+[2020.09.03-05.17.42:482][976]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.09.03-05.17.42:487][976]PIE: Play in editor start time for /Game/地圖/UEDPIE_0_遊戲關卡 -0.565
+[2020.09.03-05.17.55:725][918]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-05.17.55:735][918]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.09.03-05.17.55:756][918]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.09.03-05.17.55:756][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.09.03-05.17.55:756][918]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲關卡
+[2020.09.03-05.17.55:770][918]LogSlate: Window 'RPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.09.03-05.17.55:776][918]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-05.17.55:776][918]LogWorld: UWorld::CleanupWorld for 遊戲關卡, bSessionEnded=true, bCleanupResources=true
+[2020.09.03-05.17.55:778][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.17.55:795][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.09.03-05.17.55:799][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.03-05.17.55:832][918]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.09.03-05.17.55:838][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.09.03-05.17.55:874][919]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.09.03-05.17.56:186][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.09.03-05.17.56:201][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲關卡" FILE="F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.03-05.17.56:232][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.09.03-05.17.56:289][953]LogSavePackage: Moving 'F:/Unreal_CY_RPG_New2/RPG/Saved/遊戲關卡CC945567496855E3B41D69BA656DC2DC.tmp' to 'F:/Unreal_CY_RPG_New2/RPG/Content/地圖/遊戲關卡.umap'
+[2020.09.03-05.17.56:316][953]LogFileHelpers: Saving map '遊戲關卡' took 0.114
+[2020.09.03-05.17.56:325][953]AssetCheck: New page: Asset Save: 遊戲關卡
+[2020.09.03-05.17.56:325][953]LogContentValidation: Display: Validating World /Game/地圖/遊戲關卡.遊戲關卡
+[2020.09.03-05.17.58:332][191]LogUObjectArray: Warning: Other object in slot
+[2020.09.03-05.17.58:360][191]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.09.03-05.17.58:523][191]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.162 s
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: === Handled ensure: ===
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: 
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: Stack: 
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff951716cd9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff950f2693a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff950f3424f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff94cb4bd31 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff94bc5977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff94bc11647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff96c2cb144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff96c4bdc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff96c3160b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff96c2f46f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff96c2e8ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff97c864ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff97c85242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff97c867195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff97c84ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff999c863ed USER32.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff999c85de2 USER32.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff97c868699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff7cbaf6db0 UE4Editor.exe!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff7cbb0c3ec UE4Editor.exe!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff7cbb0c4ca UE4Editor.exe!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff7cbb1ceae UE4Editor.exe!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff7cbb1fcbe UE4Editor.exe!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff9996f7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: [Callstack] 0x00007ff99a4aced1 ntdll.dll!UnknownFunction []
+[2020.09.03-05.17.58:523][191]LogOutputDevice: Error: 
+[2020.09.03-05.17.58:527][191]LogStats:                SubmitErrorReport -  0.000 s
